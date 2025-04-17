@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi I'm selendra kumar <br>A passionate Software developer who loves learning & developing new things. <br><br>🔭 I’m currently working at Scaler <br><br>🌱 I’m currently learning System Design and improving my problem solving skills <br><br>💬 Ask me about Backend Engineering, Computer Science<br><br>📫 How to reach me selendrakumarwork@gmail.com<br>
+Hi I'm selendra kumar <br>A passionate Software developer who loves learning & developing new things. <br><br>🔭 I’m currently working at Ust Global <br><br>🌱 I’m currently Learning about devops tools such as Kubernetes, Docker and improving my problem solving skills <br><br>💬 Ask me about Backend Engineering, Computer Science, Devops<br><br>📫 How to reach me selendrakumarwork@gmail.com<br>
 
 
 ## 🌐 Socials:
